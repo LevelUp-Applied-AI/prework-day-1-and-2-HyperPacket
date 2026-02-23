@@ -11,11 +11,11 @@
 | Specification | Your value |
 |---------------|------------|
 | Operating System | (e.g., Windows 11 22H2, macOS 14.4, Ubuntu 22.04) |
-| OS Build / Version | |
-| RAM | (e.g., 16 GB) |
-| CPU Model | (e.g., Intel Core i7-12700H, Apple M2) |
-| CPU Cores | |
-| Free Disk Space | (e.g., 45 GB free) |
+| OS Build / Version | Ubuntu 24.04 LTS|
+| RAM | 64GB |
+| CPU Model | Intel Core i9-14900HX |
+| CPU Cores | 24 |
+| Free Disk Space | 2TB |
 | Internet Speed (Download) | (from speedtest.net — Mbps) |
 
 ---
