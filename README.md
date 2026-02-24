@@ -28,3 +28,13 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+
+
+## About
+
+Done by Zaid AKA HyperPacket for AI Spire program
+## Setup
+
+```bash
+git clone https://github.com/LevelUp-Applied-AI/<HyperPacket>-prework.git
+cd <HyperPacket>-prework
