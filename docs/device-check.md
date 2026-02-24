@@ -28,6 +28,8 @@
 - [ ] Screenshot: Internet speed test result
 - [ ] Screenshot: Admin rights confirmed
 
+![alt text](../neofetch.png)
+
 **Windows only:**
 - [ ] Screenshot: `wsl -l -v` output showing WSL 2
 - [ ] Screenshot: `wsl --status` output
@@ -43,3 +45,5 @@
 ## Device Notes
 
 [Any device issues, constraints, or concerns. Write "None" if everything checks out.]
+
+the images are not from my main laptop, they are from my other laptop.
