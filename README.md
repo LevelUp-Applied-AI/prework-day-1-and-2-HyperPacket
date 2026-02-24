@@ -1,3 +1,12 @@
+## About
+
+This repo is for AISpire, and this is day2
+
+## Setup
+
+git clone https://github.com/LevelUp-Applied-AI/prework-day-1-and-2-HyperPacket.git
+cd prework-day-1-and-2-HyperPacket
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ACDS7X_C)
 # AI.SPIRE Pre-Work — Your Submission Repo for Day 1 and Day 2
 
